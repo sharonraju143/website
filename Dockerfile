@@ -1,2 +1,2 @@
-FROM sharonraju143/tomcat
+FROM hshar/webapp
 ADD . /var/www/html
